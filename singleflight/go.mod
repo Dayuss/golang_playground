@@ -1,4 +1,4 @@
-module github.com/dayuss/golang-singleflight
+module github.com/dayuss/go_playground/singleflight
 
 go 1.25.0
 
